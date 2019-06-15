@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FiraGo-Medium';
+    src: url('../../fonts/FiraGo-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'FiraGo-Bold';
+    src: url('../../fonts/FiraGo-Bold.ttf');
+}
+@font-face {
+    font-family: 'FiraGo-Regular';
+    src: url('../../fonts/FiraGo-Regular.ttf');
+}
